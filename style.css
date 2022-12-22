@@ -1,0 +1,96 @@
+.container {
+  height: 640px;
+    text-align: center;
+    background-image: url("im1.jpeg");
+    background-repeat: no-repeat;
+    background-size: 1600px;
+  }
+  
+  nav.entete{
+  background-color: #dfe6e9;
+  white-space: nowrap;
+  width:100% ;
+  overflow-x: auto;
+  
+  
+  }
+  
+  nav.entete a {
+  float: left;
+    color: black;
+    text-align: center;
+    padding: 12px;
+    text-decoration: none;
+    font-size: 18px;
+    line-height: 25px;
+    border-radius: 4px;
+  }
+  
+  button {
+    float: right;
+    margin-top:10px ;
+    padding: 5px;
+    background-color: blue;
+    border-radius: 2px blue;
+    color: white;
+    margin-right: 50px;
+  }
+  .div3{
+    display: inline-block;
+  
+  
+  }
+  .div2{
+    width: 80%;
+    float: center;
+    color: white;
+    
+  }
+  
+  .section1{
+    float: center;
+    margin-top: 150px;
+  }
+  h1{
+    font-size: 50px;
+    margin-left: 200px;
+  }
+  .logo{
+    margin-left: 50px;
+  }
+  .input1{
+    padding: 10px;
+    padding-right: 50px;
+    margin-right: 20px;
+  }
+  .bout1{
+    margin-top: 0px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+  }
+  .colonne {
+    float: left;
+    width: 30%;
+    padding: 15px;
+  }
+  
+ 
+  .ligne:after {
+    background-color: #f9f9f9;
+    width: 100%;
+    height: 100%;
+    padding: 15px 15px;
+    border-top: 1px solid #ddd;
+  }
+  .ligne{
+    margin-top: 350px;
+    background-color: #dfe6e9;
+  }
+  i{
+    font-size: 50px;
+    color: blue;
+  }
+  
+
+  
+  
